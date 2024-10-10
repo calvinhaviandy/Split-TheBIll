@@ -1,0 +1,140 @@
+[33mcommit 97b0a57ce15800678cd81a251913a9d57a7af183[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: calvin <calvinhaviandy@gmail.com>
+Date:   Thu Oct 10 19:25:21 2024 +0700
+
+    test
+
+[33mcommit a32b06225992df47df74587e51d77446caf248e6[m
+Merge: e9eaa26 0f99ce0
+Author: AlvitoDian <alvidpp23@gmail.com>
+Date:   Fri Aug 16 14:45:44 2024 +0700
+
+    Merge branch 'main' of https://github.com/AlvitoDian/GAMEKU
+
+[33mcommit e9eaa26cba0a12c1357ff8d6d34a99a1a9e4b5a1[m
+Author: AlvitoDian <alvidpp23@gmail.com>
+Date:   Fri Aug 16 14:45:14 2024 +0700
+
+    feat: favorite page
+
+[33mcommit c32001a43abdcf7128340991cd2b18330f5bb6bb[m
+Author: AlvitoDian <alvidpp23@gmail.com>
+Date:   Sun Jul 21 00:48:19 2024 +0700
+
+    fix: dashboard product ui
+
+[33mcommit 0f99ce0eca905c4a8113caa2099eaf61fb4c4b85[m
+Author: Alvito Dian <132731944+AlvitoDian@users.noreply.github.com>
+Date:   Wed Jul 17 23:00:33 2024 +0700
+
+    Update README.md
+
+[33mcommit 794e26624cd63c3485f695d4d1dda50b33b67404[m
+Author: AlvitoDian <alvidpp23@gmail.com>
+Date:   Wed Jul 17 22:59:15 2024 +0700
+
+    fix: midtrans config
+
+[33mcommit 4f74b9dbe5b90047827b374de0493af412931707[m
+Merge: 96572ea ca22a21
+Author: AlvitoDian <alvidpp23@gmail.com>
+Date:   Mon Nov 6 18:05:07 2023 +0700
+
+    Merge branch 'main' of https://github.com/AlvitoDian/GAMEKU
+
+[33mcommit 96572eafa427081a311701f7c1c4a67d2a25f203[m
+Author: AlvitoDian <alvidpp23@gmail.com>
+Date:   Mon Nov 6 18:04:46 2023 +0700
+
+    Update Rate Store
+
+[33mcommit ca22a21dc8b078b885a90449e0b919c8916be9c7[m
+Author: Alvito Dian <132731944+AlvitoDian@users.noreply.github.com>
+Date:   Sat Nov 4 23:31:15 2023 +0700
+
+    Update README.md
+
+[33mcommit 18c517360241c5c55f21775fe2a6a5839b24ba85[m
+Author: AlvitoDian <alvidpp23@gmail.com>
+Date:   Sat Nov 4 23:15:42 2023 +0700
+
+    Updated 04 November 2023
+
+[33mcommit b211999438db98da5de4e8a088539080e3356099[m
+Author: Alvito Dian <132731944+AlvitoDian@users.noreply.github.com>
+Date:   Fri Nov 3 14:21:05 2023 +0700
+
+    Update README.md
+
+[33mcommit 7655d0c4459e2e77d0f621b65ff1754cf5594b82[m
+Author: AlvitoDian <alvidpp23@gmail.com>
+Date:   Thu Nov 2 23:17:15 2023 +0700
+
+    Updated 02 November 2023
+
+[33mcommit 405f6a9f70f492aeeeece7db94dec7225f342015[m
+Author: Alvito Dian <132731944+AlvitoDian@users.noreply.github.com>
+Date:   Sat Aug 12 15:54:33 2023 +0700
+
+    Update README.md
+
+[33mcommit 66b5c580288a963055feff5450a60a68e22fb836[m
+Author: Alvito Dian <132731944+AlvitoDian@users.noreply.github.com>
+Date:   Sat Aug 12 15:48:21 2023 +0700
+
+    Update README.md
+
+[33mcommit 62bce3328c5838d0458779797c3b5c45d42c6310[m
+Merge: 367cd18 a603b62
+Author: AlvitoDian <alvidpp23@gmail.com>
+Date:   Sun Jul 16 13:04:08 2023 +0700
+
+    Merge branch 'main' of https://github.com/AlvitoDian/GAMEKU
+
+[33mcommit 367cd18a2bfbdc03177ccb58cfbb58fdc2572243[m
+Author: AlvitoDian <alvidpp23@gmail.com>
+Date:   Sun Jul 16 12:49:15 2023 +0700
+
+    Baru
+
+[33mcommit a603b620a9dbefaa3b8e210c52637d8e7ccddca2[m
+Author: Alvito Dian <132731944+AlvitoDian@users.noreply.github.com>
+Date:   Tue Jul 4 06:42:08 2023 +0700
+
+    Update README.md
+
+[33mcommit 25f193f3b3662ac18d4b2323888004d75491c73a[m
+Author: Alvito Dian <132731944+AlvitoDian@users.noreply.github.com>
+Date:   Tue Jul 4 06:32:09 2023 +0700
+
+    Update README.md
+
+[33mcommit dc7535077a335228046836951debf16900be94f0[m
+Author: Alvito Dian <132731944+AlvitoDian@users.noreply.github.com>
+Date:   Tue Jul 4 06:27:47 2023 +0700
+
+    Update README.md
+
+[33mcommit ab7e6e3e3fae46852034b1435a5b53271997d325[m
+Author: Alvito Dian <132731944+AlvitoDian@users.noreply.github.com>
+Date:   Tue Jul 4 06:26:46 2023 +0700
+
+    Update README.md
+
+[33mcommit a1105b2e3ca2f1c597d30c2e02119f477c66e398[m
+Author: Alvito Dian <132731944+AlvitoDian@users.noreply.github.com>
+Date:   Tue Jul 4 06:14:27 2023 +0700
+
+    Update README.md
+
+[33mcommit 06e0804c87b1756bcc66341fcff4464a590f8d11[m
+Author: Alvito Dian <132731944+AlvitoDian@users.noreply.github.com>
+Date:   Tue Jul 4 06:13:05 2023 +0700
+
+    Update README.md
+
+[33mcommit 8e6cf72f916d4214a1b01fb08714b5471e49bcee[m
+Author: AlvitoDian <alvidpp23@gmail.com>
+Date:   Tue Jul 4 06:11:53 2023 +0700
+
+    first commit
